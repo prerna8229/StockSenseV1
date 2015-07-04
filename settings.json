@@ -1,0 +1,10 @@
+{
+    "oauth": {
+        
+        "facebook": {
+            "appId": "981680461866180",
+            "secret": "63756a1dc56056e8e7bf265a840cea8a"
+        }
+        
+    }
+}
